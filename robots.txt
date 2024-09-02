@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fuhutavtribun.pages.dev/sitemap.xml
